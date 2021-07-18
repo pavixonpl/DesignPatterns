@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DesignPatterns.Composite\DesignPatterns.Composite.csproj" />
+    <ProjectReference Include="..\DesignPatterns.Decorator\DesignPatterns.Decorator.csproj" />
   </ItemGroup>
 
 </Project>

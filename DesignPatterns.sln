@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesingPatterns.Adapter", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesingPatterns.Bridge", "DesingPatterns.Bridge\DesingPatterns.Bridge.csproj", "{8B6035EC-CD8C-4A75-825D-6049EA308C1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Composite", "DesignPatterns.Composite\DesignPatterns.Composite.csproj", "{251CA805-0DA5-4FF4-BEB4-314CCF11B56C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Composite", "DesignPatterns.Composite\DesignPatterns.Composite.csproj", "{251CA805-0DA5-4FF4-BEB4-314CCF11B56C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Tests", "DesignPatterns.Tests\DesignPatterns.Tests.csproj", "{AA0F4310-E8A1-4EBE-8956-CB637B77850C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Tests", "DesignPatterns.Tests\DesignPatterns.Tests.csproj", "{AA0F4310-E8A1-4EBE-8956-CB637B77850C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Decorator", "DesignPatterns.Decorator\DesignPatterns.Decorator.csproj", "{16C30AF8-87FE-4F61-AF5F-8561E09A0A6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{AA0F4310-E8A1-4EBE-8956-CB637B77850C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA0F4310-E8A1-4EBE-8956-CB637B77850C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA0F4310-E8A1-4EBE-8956-CB637B77850C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C30AF8-87FE-4F61-AF5F-8561E09A0A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C30AF8-87FE-4F61-AF5F-8561E09A0A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C30AF8-87FE-4F61-AF5F-8561E09A0A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C30AF8-87FE-4F61-AF5F-8561E09A0A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
